@@ -34,19 +34,19 @@
 
 ## Objetivo de la actividad
 
-<p style="text-align: justify"> 
+<div class=text-justify> 
 
 1. Aplicar los temas discutidos durante los cursos de bases de datos y programación orientada a objetos en el ciclo I de 2022, utilizando como contexto, un caso que simula un problema real, y donde se permite a los estudiantes proponer y crear una solución tecnológica que favorece de manera proactiva a la realidad nacional
 2. Lograr una visión unificada de la etapa de análisis y desarrollo de un proyecto de programación incluyendo el análisis del problema, diseño y creación de la base de datos y desarrollo de la aplicación con la que el cliente podrá interactuar
 3. Comprender la importancia de utilizar las mejores prácticas de programación en cada etapa del desarrollo de una solución de software.
-</p> 
+</div> 
 
 ## Definición y contextualización de la problemática a resolver.
-<p style="text-align: justify"> 
+<div class=text-justify> 
 
 La Nueva Biblioteca Nacional (BINAES) es un nuevo megaproyecto anunciado por el gobierno de El Salvador. BINAES estará ubicada en donde actualmente se encuentra la antigua Biblioteca Nacional del Centro Histórico de San Salvador. Se calcula que su construcción requerirá de una inversión total de $54 millones de dólares. El nuevo proyecto pretende ser un espacio educativo para la difusión de cultura, dedicada a la juventud salvadoreña. El diseño arquitectónico de BINAES hace alusión a un libro abierto, y al mismo tiempo, responde a un diseño conceptual inspirado en los volcanes del país, en los arrecifes de sus costas y en las olas de sus playas. Una de las principales novedades de BINAES es que será accesible las 24 horas del día, el horario extendido tiene como objetivo que todos los salvadoreños puedan utilizar sus amplias y modernas instalaciones para avanzar en sus estudios e investigaciones. Además, BINAES ofrecerá los siguientes servicios:
 
-</p>
+</div>
 
 * Un área lúdica 
 * Un auditórium moderno con una capacidad de 358 personas
@@ -55,17 +55,17 @@ La Nueva Biblioteca Nacional (BINAES) es un nuevo megaproyecto anunciado por el 
 * Salas de computación
 * Áreas de promoción de inclusión para personas en situación de discapacidad
 
-<p style="text-align: justify"> 
+<div class=text-justify> 
 
 > Su equipo de trabajo ha sido contactado para poder realizar la primera versión de la aplicación informática que se encargará de gestionar toda la información de BINAES. A pesar de que apenas inicia su construcción, ya se tiene cierta información que ayudará a planificar el diseño de la infraestructura tecnológica de la solución. 
 
-</p>
+</div>
 
 ## Entrega y productos esperados.
 
 ### Para la asignatura de bases de datos se esperan los siguientes productos:
 
-<p style="text-align: justify"> 
+<div class=text-justify> 
 
 * **Diagrama entidad-relación de base de datos.** El archivo debe llamarse “1. Diagrama ER” más un formato conocido de imágenes (.png, jpg, .jpeg). Se deben seguir las reglas y restricciones discutidas en el curso para la construcción de un diagrama entidad relación acertado. El aspecto gráfico debe tomarse en cuenta.
 * **Diagrama relacional de base de datos.** El archivo debe llamarse “2. Diagrama R” más un formato conocido de imágenes (.png, jpg, .jpeg). Se deben seguir las reglas y restricciones discutidas en el curso para la construcción de un diagrama relacional acertado. El aspecto gráfico debe tomarse en cuenta.
@@ -81,7 +81,7 @@ La Nueva Biblioteca Nacional (BINAES) es un nuevo megaproyecto anunciado por el 
 * **Documentación oficial.** Deberán crear un archivo en formato markdown, que contendrá las siguientes partes: (1) manual técnico, detallar las versiones del software que se utilizó para el desarrollo de su programa, sistema operativo, etc. (2)  manual de usuario, explicar la manera en que funciona el software, todas las opciones deben ser contempladas, no debe usarse lenguaje técnico.
 * **Manual de usuario.** El archivo debe llamarse “Manual de usuario”, debe contener las siguientes secciones: (1) descripción general del software desarrollado, (2) capturas de pantalla de todos los formularios, así como una descripción detallada de cómo utilizar el software desde la perspectiva de un usuario que nunca lo ha visto, se debe ser lo más detallado posible; (3) cuadro resumen con todos los errores que le puedan aparecer al usuario, deberá haber una pequeña captura de pantalla de los cuadros de diálogo así como una sugerencia para solventar dicho error. El orden, la ortografía y el aspecto gráfico se tomarán en cuenta.
 
-</p>
+</div>
 
 ## Métrica de evaluación.
 
@@ -90,7 +90,7 @@ El equipo será responsable de:
 2. Asegurar que la entrega realizada NO se haya subido corrupta, en caso contrario automáticamente se asignará la nota de 0.0
 3. Los modelos deben entregarse en formato de imagen, opcionalmente pueden incluirse los archivos editables de los diagramas
 
-<div style="text-align: center"> 
+<div class=pull-center> 
 
 <table>
   <tr>
