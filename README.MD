@@ -34,7 +34,7 @@
 
 ## Objetivo de la actividad
 
-<div class=text-justify> 
+<div style="text-align: justify">
 
 1. Aplicar los temas discutidos durante los cursos de bases de datos y programación orientada a objetos en el ciclo I de 2022, utilizando como contexto, un caso que simula un problema real, y donde se permite a los estudiantes proponer y crear una solución tecnológica que favorece de manera proactiva a la realidad nacional
 2. Lograr una visión unificada de la etapa de análisis y desarrollo de un proyecto de programación incluyendo el análisis del problema, diseño y creación de la base de datos y desarrollo de la aplicación con la que el cliente podrá interactuar
@@ -42,7 +42,7 @@
 </div> 
 
 ## Definición y contextualización de la problemática a resolver.
-<div class=text-justify> 
+<div style="text-align: justify">
 
 La Nueva Biblioteca Nacional (BINAES) es un nuevo megaproyecto anunciado por el gobierno de El Salvador. BINAES estará ubicada en donde actualmente se encuentra la antigua Biblioteca Nacional del Centro Histórico de San Salvador. Se calcula que su construcción requerirá de una inversión total de $54 millones de dólares. El nuevo proyecto pretende ser un espacio educativo para la difusión de cultura, dedicada a la juventud salvadoreña. El diseño arquitectónico de BINAES hace alusión a un libro abierto, y al mismo tiempo, responde a un diseño conceptual inspirado en los volcanes del país, en los arrecifes de sus costas y en las olas de sus playas. Una de las principales novedades de BINAES es que será accesible las 24 horas del día, el horario extendido tiene como objetivo que todos los salvadoreños puedan utilizar sus amplias y modernas instalaciones para avanzar en sus estudios e investigaciones. Además, BINAES ofrecerá los siguientes servicios:
 
@@ -55,7 +55,7 @@ La Nueva Biblioteca Nacional (BINAES) es un nuevo megaproyecto anunciado por el 
 * Salas de computación
 * Áreas de promoción de inclusión para personas en situación de discapacidad
 
-<div class=text-justify> 
+<div style="text-align: justify">
 
 > Su equipo de trabajo ha sido contactado para poder realizar la primera versión de la aplicación informática que se encargará de gestionar toda la información de BINAES. A pesar de que apenas inicia su construcción, ya se tiene cierta información que ayudará a planificar el diseño de la infraestructura tecnológica de la solución. 
 
@@ -65,7 +65,7 @@ La Nueva Biblioteca Nacional (BINAES) es un nuevo megaproyecto anunciado por el 
 
 ### Para la asignatura de bases de datos se esperan los siguientes productos:
 
-<div class=text-justify> 
+<div style="text-align: justify">
 
 * **Diagrama entidad-relación de base de datos.** El archivo debe llamarse “1. Diagrama ER” más un formato conocido de imágenes (.png, jpg, .jpeg). Se deben seguir las reglas y restricciones discutidas en el curso para la construcción de un diagrama entidad relación acertado. El aspecto gráfico debe tomarse en cuenta.
 * **Diagrama relacional de base de datos.** El archivo debe llamarse “2. Diagrama R” más un formato conocido de imágenes (.png, jpg, .jpeg). Se deben seguir las reglas y restricciones discutidas en el curso para la construcción de un diagrama relacional acertado. El aspecto gráfico debe tomarse en cuenta.
@@ -90,7 +90,7 @@ El equipo será responsable de:
 2. Asegurar que la entrega realizada NO se haya subido corrupta, en caso contrario automáticamente se asignará la nota de 0.0
 3. Los modelos deben entregarse en formato de imagen, opcionalmente pueden incluirse los archivos editables de los diagramas
 
-<div class=pull-center> 
+<div style="text-align: center">
 
 <table>
   <tr>
